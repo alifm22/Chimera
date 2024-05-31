@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="darkGrey">#1E1F22</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkWhite">#C8C8C8</color>
+
+    <color name="lightOrange">#F7D04F</color>
+    <color name="onLightOrange">#332b10</color>
+
+    <color name="yellowOrange">#FFCE9E</color>
+    <color name="onYellowOrange">#332920</color>
+
+    <color name="redOrange">#B38C96</color>
+    <color name="onRedOrange">#33282b</color>
+
+    <color name="darkBlueGreen">#575468</color>
+    <color name="onDarkBlueGreen">#2b2933</color>
+
+    <color name="deepOrange">#FF9933</color>
+    <color name="onDeepOrange">#331f0a</color>
+
+    <color name="goldenYellow">#D9A53C</color>
+    <color name="onGoldenYellow">#33270e</color>
+
+    <color name="muteBlueGreen">#826E86</color>
+    <color name="onMuteBlueGreen">#312a33</color>
+
+    <color name="turquoise">#00B2CC</color>
+    <color name="onTurquoise">#002c33</color>
+
+    <color name="lightTeal">#2FA4FF</color>
+    <color name="onLightTeal">#092133</color>
+
+    <color name="vibrantTeal">#008CBA</color>
+    <color name="onVibrantTeal">#002633</color>
+
+    <color name="darkViolet">#564391</color>
+    <color name="onDarkViolet">#1e1733</color>
+
+    <color name="paleOrange">#FFB74D</color>
+    <color name="onPaleOrange">#33250f</color>
+
+    <color name="lightBlueGreen">#817D8F</color>
+    <color name="onLightBlueGreen">#2e2c33</color>
+
+    <color name="lightGrey">#F2F2F2</color>
+    <color name="onLightGrey">#333333</color>
+
+    <color name="softPink">#F7A1A1</color>
+    <color name="onSoftPink">#332121</color>
+
+    <color name="veryLightBlueGreen">#BAB4B1</color>
+    <color name="onVeryLightBlueGreen">#333130</color>
+
+    <color name="lightViolet">#AF9FC3</color>
+    <color name="onLightViolet">#2e2a33</color>
+
+    <color name="veryLightViolet">#B083D6</color>
+    <color name="onVeryLightViolet">#2a1f33</color>
+
+    <color name="terracotta">#9D767D</color>
+    <color name="onTerracotta">#332629</color>
+
+    <color name="darkRedOrange">#614450</color>
+    <color name="onDarkRedOrange">#33242a</color>
+
+    <color name="darkBlue">#5679AA</color>
+    <color name="onDarkBlue">#1a2433</color>
+
+    <color name="oliveGreen">#435A35</color>
+    <color name="onOliveGreen">#26331e</color>
+
+    <color name="hunterGreen">#386557</color>
+    <color name="onHunterGreen">#1c332c</color>
+
+    <color name="forestGreen">#00796B</color>
+    <color name="onForestGreen">#00332d</color>
+
+    <color name="limeGreen">#A2C56D</color>
+    <color name="onLimeGreen">#2a331c</color>
+
+    <color name="sageGreen">#C5E1A5</color>
+    <color name="onSageGreen">#2d3325</color>
+
+    <color name="darkRed">#DD002C</color>
+    <color name="onDarkRed">#33000a</color>
+
+    <color name="green">#00B28A</color>
+    <color name="onGreen">#003328</color>
+
+    <color name="noteGreen">#C5E1A5</color>
+    <color name="onNoteGreen">#2d3325</color>
+
+    <color name="noteYellow">#E1E0A5</color>
+    <color name="onNoteYellow">#333325</color>
+
+    <color name="noteBlue">#A5D0E1</color>
+    <color name="onNoteBlue">#252E33</color>
+
+    <color name="noteRed">#E1A5A5</color>
+    <color name="onNoteRed">#332525</color>
+
+    <color name="noteViolet">#D6A5E1</color>
+    <color name="onNoteViolet">#312533</color>
+
+    <color name="DarkGray">#FF1E1F20</color>
+    <color name="LightGray">#FF1e1f20</color>
+    <color name="VibrantOrange">#FFFF9b00</color>
+    <color name="SunnyYellow">#FFFFFF00</color>
+    <color name="DelicatePink">#FFf2c9c0</color>
+    <color name="RegalPurple">#FF5377bd</color>
+    <color name="RefreshingTeal">#FF00b28a</color>
+    <color name="RadiantRed">#FFff0033</color>
+    <color name="ElectricBlue">#FF26a6f5</color>
+    <color name="LushGreen">#FF228b22</color>
+    <color name="GoldenYellow">#FFffd700</color>
+    <color name="SoftPink">#FFfdb485</color>
+    <color name="AmethystPurple">#FF9b66bd</color>
+    <color name="SeafoamGreen">#FF54ff9f</color>
+    <color name="CanaryYellow">#FFffff99</color>
+    <color name="LavenderPurple">#FFd9b3ff</color>
+    <color name="OceanBlue">#FF007bff</color>
+    <color name="ForestGreen">#FF228b22</color>
+</resources>
